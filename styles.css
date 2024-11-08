@@ -1,0 +1,31 @@
+#image {
+  width: 100%;
+  max-width: 700px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+#img-div {
+  text-align: center;
+}
+body {
+  background-color: #f0f0f0;
+}
+img-caption, #tribute-info {
+  max-width: 700px;
+  text-align: center;
+  margin: -20px auto;
+  background-color: #909090;
+  color: #f0f0f0
+}
+a {
+  color: #e0e0e0
+}
+h2 {
+  max-width: 600px;
+  text-align: center;
+}
+#tribute-info {
+  display: flex;
+  justify-content: center;
+}
